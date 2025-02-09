@@ -45,7 +45,7 @@
     "micromatch": "4.0.5",
     "pidtree": "0.6.0",
     "string-argv": "0.3.2",
-    "yaml": "2.3.2"
+    "yaml": "2.7.0"
   },
   "devDependencies": {
     "@babel/core": "7.22.17",
